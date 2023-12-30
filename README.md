@@ -1,24 +1,14 @@
-# README
+# Appointment app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+App for personal practice and study
 
 * Ruby version
 
-* System dependencies
+ 3.1.0 ( set by rbenv on appointment folder)
+* Bootstrap installation
 
-* Configuration
+ How to Get Rails 7 Bootstrap from Sprockets and Sassc-Rails by Pinning with Importmap:
+ [Bootstrap with importmap via CDN](https://jasonfleetwoodboldt.com/courses/rails-7-crash-course/rails-7-importmap-rails-with-bootstrap-stimulus-turbo-long-tutorial/)
+* Bootstrap version
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ 5.1.3
